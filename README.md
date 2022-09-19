@@ -1,2 +1,2 @@
 # KaffeDB
-Prosjekt for Datamodellering og databasesystemer
+Interactive database for coffee and coffee tastings.
